@@ -1,0 +1,41 @@
+.button {
+    background: red;
+}
+
+.bgbackground {
+    background: url('../img/marketing1.png');
+    background-size: cover;
+    height: 100vh;
+    background-position: center center;
+    background-repeat: no-repeat;
+}
+
+.BgOberlay{
+    position: absolute;
+    min-height: 500px;
+    width: 100%;
+    background: rgba(0,0,0,0.8);
+}
+
+
+.btnbutton {
+    background: #0A89FF;
+    padding: 14px 40px;
+    border-radius: 10px;
+    text-transform: uppercase;
+    font-size: 20px;
+    color: #ffff;
+    cursor: pointer;
+}
+.btnHome {
+    background: #0A89FF;
+    padding: 10px 30px;
+    border-radius: 10px;
+    text-transform: uppercase;
+    font-size: 20px;
+    color: #ffff;
+    cursor: pointer;
+}
+.CardBorder{
+    border-bottom: #0A89FF 2px solide;
+}
