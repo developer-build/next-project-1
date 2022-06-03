@@ -10,11 +10,11 @@
     background-repeat: no-repeat;
 }
 
-.BgOberlay{
+.BgOberlay {
     position: absolute;
     min-height: 500px;
     width: 100%;
-    background: rgba(0,0,0,0.8);
+    background: rgba(0, 0, 0, 0.8);
 }
 
 
@@ -27,6 +27,7 @@
     color: #ffff;
     cursor: pointer;
 }
+
 .btnHome {
     background: #0A89FF;
     padding: 10px 30px;
@@ -36,6 +37,25 @@
     color: #ffff;
     cursor: pointer;
 }
-.CardBorder{
+
+.CardBorder {
     border-bottom: #0A89FF 2px solide;
+}
+
+#personaol {
+    background: url('../img/marketing2.png');
+    background-position: top right;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.btnbutonto {
+    background: rgba(0, 85, 138, 0.979);
+    padding: 14px 40px;
+    border-radius: 10px;
+    text-transform: uppercase;
+    font-size: 20px;
+    color: #ffff;
+    margin-top: 8px;
+    cursor: pointer;
 }

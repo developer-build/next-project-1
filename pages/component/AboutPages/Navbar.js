@@ -46,7 +46,6 @@ const Navbar = () => {
                     </ul>
                 </div>
                 <div className="navbar-end uppercase">
-                   
                     <a className={Style.btnHome}>let's talk</a>
                 </div>
             </div>
